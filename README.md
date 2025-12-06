@@ -38,7 +38,6 @@ The easiest way to run the application is using Docker Compose.
 
 3. **Access the application**:
    - Frontend: [http://localhost:3000](http://localhost:3000)
-   - Backend API Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Manual Setup
 
